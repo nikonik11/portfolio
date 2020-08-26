@@ -42,7 +42,7 @@
     text-transform: uppercase;
     font-family: 'Poppins', sans-serif;
     font-weight: 200;
-    font-size: 80px;
+    font-size: 60px;
     color: #383838;
     letter-spacing: 2px;
 }
@@ -218,7 +218,7 @@
 .presp p{
     font-family: 'poppins';
     color: #383838;
-    font-size: 22px;
+    font-size: 18px;
     text-align: center;
     line-height: 40px;
 }
@@ -286,4 +286,8 @@
     background: #f8f8f8;
     box-shadow:  -15px 15px 32px #838383, 
                  15px -15px 32px #ffffff;
+}
+
+.box html {
+    display: flex;
 }
